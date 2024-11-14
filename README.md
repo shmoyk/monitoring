@@ -119,8 +119,14 @@ scrape_configs:
 
 
 
+## Иерархия папок
+
+<img width="557" alt="изображение" src="https://github.com/user-attachments/assets/c917b50b-fa0c-4291-85c8-c9aa12fc2bec">
+
+
 # Результат Nmap
 
 
-<img width="1080" alt="изображение" src="https://github.com/user-attachments/assets/58d0a8f6-5ba7-42c6-9572-29565513de3a">
+<img width="563" alt="изображение" src="https://github.com/user-attachments/assets/ced7d27a-e2c5-41b4-8e70-99856a03ee63">
+
 
